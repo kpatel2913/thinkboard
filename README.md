@@ -4,7 +4,7 @@ A full-stack note-taking application built with the MERN stack, featuring modern
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://thinkboard-gxxz.onrender.com/)**
+**[View Live Application](https://thinkboard-gxxz.onrender.com/)** Takes a couple minutes to load for the first time
 
 ## 🛠️ What I Built
 
